@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/guyanhua/esp/fast_scan/build/CMakeFiles/bootloader
+/Users/guyanhua/esp/fast_scan/build/CMakeFiles/bootloader.rule
+/Users/guyanhua/esp/fast_scan/build/CMakeFiles/bootloader-complete.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/guyanhua/esp/fast_scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
